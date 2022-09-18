@@ -1,0 +1,93 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/paper/transparent"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/paper/plus"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "item/paper/minus"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "item/paper/refresh"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "item/paper/chat"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "item/paper/chat_ban"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "item/paper/globe"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "item/paper/mark"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "item/paper/palette"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "item/paper/rename"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "item/paper/text"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "item/paper/head"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "item/paper/prev"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "item/paper/next"
+    },
+    {
+      "predicate": { "custom_model_data": 1001 },
+      "model": "item/paper/theme_zinc"
+    },
+    {
+      "predicate": { "custom_model_data": 1002 },
+      "model": "item/paper/theme_indigo"
+    },
+    {
+      "predicate": { "custom_model_data": 1003 },
+      "model": "item/paper/theme_emerald"
+    },
+    {
+      "predicate": { "custom_model_data": 1004 },
+      "model": "item/paper/theme_sky"
+    },
+    {
+      "predicate": { "custom_model_data": 1005 },
+      "model": "item/paper/theme_purple"
+    },
+    {
+      "predicate": { "custom_model_data": 1006 },
+      "model": "item/paper/theme_fuchsia"
+    },
+    {
+      "predicate": { "custom_model_data": 1007 },
+      "model": "item/paper/theme_rose"
+    }
+  ]
+}
